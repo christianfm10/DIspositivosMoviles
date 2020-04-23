@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/android"
+    android:background="@drawable/AndroidBack3"
 
 
     tools:context=".MainActivity">
@@ -14,10 +14,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#FFFFFF"
-        android:drawableTint="#4E2020"
         android:text="@string/welcome"
         android:textColor="#FFFFFF"
-        android:textColorHint="#3C2424"
         android:textSize="60sp"
         android:textStyle="bold"
         tools:layout_editor_absoluteX="159dp"
